@@ -1,5 +1,5 @@
 # Optical Flow network using RL and TVL1 energy function
-# RL Approach training flownet 
+# RL Approach for training flownet based network 
 
 Author: Praveen Badimala Supervisor: Christian Bailer
 
