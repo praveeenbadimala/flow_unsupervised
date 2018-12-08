@@ -41,9 +41,9 @@ Training flow_reinforce_actor_critic simple network
  python flow_reinforce_actor_critic_simple.py -b4 -j8 --epochs 20 --epoch-size 1200 --dataset flying_chairs flying_chairs_data_set_location
 the command usage is same as flow_reinforce_actor_critic
 
-Flow gneration:********************
+Flow generation:
 you can generate the flow using the run_inference class, you need to put the sample images in a data_folder and save the image
-ending with 0.png,1.png . Any extensions can be used
+ending with 0.png,1.png . Any extensions can be used.
 
 python run_inference.py --pretrained  actor_checkpoint.pth.tar --img-exts  png --data data_folder --output output_folder
 
