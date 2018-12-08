@@ -50,7 +50,7 @@ ending with 0.png,1.png . Any extensions can be used.
 python run_inference.py --pretrained  actor_checkpoint.pth.tar --img-exts  png --data data_folder --output output_folder
 
 
-dev environment and version:********
+dev environment and version:
 	pytorch >= 0.4
 	tensorboardX
 	scipy
