@@ -15,6 +15,7 @@ mpi-sintel
 KITTI
 
 Types:
+
 There are two versions of rl networks
 1) flow_reinforce_actor_critic_simple
    - this one uses two seperate networks, actor and critic network (ac_simple)
@@ -23,6 +24,7 @@ There are two versions of rl networks
 flow_reinforce_actor_critic gave better results compared to the flow_reinforce_actor_critic_simple
 
 Usage:
+
 1)
 Training flow_reinforce_actor_critic single network (ac_single_net_a and ac_single_net_b)
 cmd:
