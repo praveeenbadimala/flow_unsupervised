@@ -1,6 +1,7 @@
 # Reinforcement learning based energy minimization
 # RL Approach training flownet 
-# Author: Praveen Badimala Supervisor: Christian Bailer
+
+Author: Praveen Badimala Supervisor: Christian Bailer
 
 We use FlowNets architecture as base network architecture
 FlowNet is provided by Dosovitskiy et al.
