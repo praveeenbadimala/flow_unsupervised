@@ -1,4 +1,4 @@
-# Reinforcement learning based energy minimization
+# Optical Flow network using RL and TVL1 energy function
 # RL Approach training flownet 
 
 Author: Praveen Badimala Supervisor: Christian Bailer
