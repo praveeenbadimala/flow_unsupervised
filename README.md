@@ -10,11 +10,11 @@ We have used the components of flownet code implemented by ClementPinard
 Ref: https://github.com/ClementPinard/FlowNetPytorch
 
 we can train the network by any of the public datasets available like:
-flyingchairs
+Flyingchairs
 mpi-sintel
 KITTI
 
-Types:***********************
+Types:
 There are two versions of rl networks
 1) flow_reinforce_actor_critic_simple
    - this one uses two seperate networks, actor and critic network (ac_simple)
@@ -22,7 +22,7 @@ There are two versions of rl networks
     - this one uses one single network, actor_critic_combined network (ac_single_net_a,ac_single_net_b)
 flow_reinforce_actor_critic gave better results compared to the flow_reinforce_actor_critic_simple
 
-Usage:***************************
+Usage:
 1)
 Training flow_reinforce_actor_critic single network (ac_single_net_a and ac_single_net_b)
 cmd:
